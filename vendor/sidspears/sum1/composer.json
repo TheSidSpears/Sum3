@@ -1,0 +1,18 @@
+{
+    "name": "sidspears/sum1",
+    "description": "Summ",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artur",
+            "email": "thesidspears@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SidSpears\\": "src"
+        }
+    }
+}

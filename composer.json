@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sidspears/sum1": "1.0.2",
+        "svichka/sum": "1.0.1"
+    }
+}

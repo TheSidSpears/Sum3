@@ -1,0 +1,72 @@
+[
+    {
+        "name": "sidspears/sum1",
+        "version": "1.0.2",
+        "version_normalized": "1.0.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/TheSidSpears/Sum.git",
+            "reference": "0283776ff865dae504a5188d94073890faeb3fae"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/TheSidSpears/Sum/zipball/0283776ff865dae504a5188d94073890faeb3fae",
+            "reference": "0283776ff865dae504a5188d94073890faeb3fae",
+            "shasum": ""
+        },
+        "time": "2018-08-05T20:16:40+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "SidSpears\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Artur",
+                "email": "thesidspears@gmail.com"
+            }
+        ],
+        "description": "Summ"
+    },
+    {
+        "name": "svichka/sum",
+        "version": "1.0.1",
+        "version_normalized": "1.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/svichka/Sum.git",
+            "reference": "635e9e3e19f94a956df329fd8c15b9a1df7b3142"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/svichka/Sum/zipball/635e9e3e19f94a956df329fd8c15b9a1df7b3142",
+            "reference": "635e9e3e19f94a956df329fd8c15b9a1df7b3142",
+            "shasum": ""
+        },
+        "time": "2018-07-30T18:20:26+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Svichka\\": "src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Dasha Ant",
+                "email": "daria.iva@gmail.com"
+            }
+        ],
+        "description": "My sum class for composer"
+    }
+]

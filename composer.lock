@@ -1,0 +1,84 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c99c512a65722af7e2665010b8dda78c",
+    "packages": [
+        {
+            "name": "sidspears/sum1",
+            "version": "1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/TheSidSpears/Sum.git",
+                "reference": "0283776ff865dae504a5188d94073890faeb3fae"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/TheSidSpears/Sum/zipball/0283776ff865dae504a5188d94073890faeb3fae",
+                "reference": "0283776ff865dae504a5188d94073890faeb3fae",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "SidSpears\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Artur",
+                    "email": "thesidspears@gmail.com"
+                }
+            ],
+            "description": "Summ",
+            "time": "2018-08-05T20:16:40+00:00"
+        },
+        {
+            "name": "svichka/sum",
+            "version": "1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/svichka/Sum.git",
+                "reference": "635e9e3e19f94a956df329fd8c15b9a1df7b3142"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/svichka/Sum/zipball/635e9e3e19f94a956df329fd8c15b9a1df7b3142",
+                "reference": "635e9e3e19f94a956df329fd8c15b9a1df7b3142",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Svichka\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Dasha Ant",
+                    "email": "daria.iva@gmail.com"
+                }
+            ],
+            "description": "My sum class for composer",
+            "time": "2018-07-30T18:20:26+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
